@@ -28,7 +28,6 @@ class SemesterScreen extends React.Component {
   getModules = (querySnapshot) => {
     const modules = fetchModules(querySnapshot);
     const semesters = splitIntoSemesters(modules);
-    console.log(modules)
     this.setState({
       modulArr: modules,
       semesters: semesters,

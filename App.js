@@ -6,7 +6,7 @@ import AddScreen from './screens/AddScreen';
 import EditScreen from './screens/EditScreen';
 import { LogBox } from 'react-native';
 
-//LogBox.ignoreAllLogs();
+LogBox.ignoreAllLogs();
 const Stack = createNativeStackNavigator();
 
 const App = () => {
