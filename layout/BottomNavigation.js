@@ -21,7 +21,7 @@ export function BottomNavigation() {
         name="Home"
         component={HomeScreen}
         options={{
-          tabBarLabel: 'Home',
+          tabBarLabel: 'Stundenplan',
           tabBarIcon: ({ color }) => (
             <MaterialCommunityIcons name="home" color={color} size={26} />
           ),
@@ -31,7 +31,7 @@ export function BottomNavigation() {
         name="Semesters"
         component={SemesterScreen}
         options={{
-          tabBarLabel: 'Semesters',
+          tabBarLabel: 'Semester',
           tabBarIcon: ({ color }) => (
             <MaterialCommunityIcons name="format-list-numbered" color={color} size={26} />
           ),
