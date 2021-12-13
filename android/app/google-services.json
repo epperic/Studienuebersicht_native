@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "936765160627",
+    "firebase_url": "https://studienuebersicht.firebaseio.com",
+    "project_id": "studienuebersicht",
+    "storage_bucket": "studienuebersicht.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936765160627:android:78af47c6d90add7649c4c6",
+        "android_client_info": {
+          "package_name": "com.studienuebersicht_native"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936765160627-c7po8t8q0tffsfhpnha96bmvjflc55am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbqomvKxAyTVYDBn0uXRe-Ofg4KQN3mKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936765160627-c7po8t8q0tffsfhpnha96bmvjflc55am.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "936765160627-fu9h82t85p8c3bfjs6jr6csgvda0keol.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hshlstud.Studienuebersicht"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
