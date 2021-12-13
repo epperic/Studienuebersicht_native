@@ -43,7 +43,7 @@ class SemesterScreen extends React.Component {
       accordions.push(
         <List.Accordion
           key={index}
-          title={`${index}. Semester                            Note: Ø ${avgGrade.toFixed(2)}`}
+          title={`${index}. Semester                  Note: Ø ${avgGrade.toFixed(2)}`}
           left={props => <List.Icon {...props} icon="folder" />}
         >
           {
